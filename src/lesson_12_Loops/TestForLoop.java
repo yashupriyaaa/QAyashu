@@ -11,9 +11,9 @@ public class TestForLoop {
 			
 			System.out.println(i);
 			
-			if(i==5)
+			if(i==6)
 			{
-			  System.out.println("Got 5");
+			  System.out.println("Got 6");
 			  break;
 				
 			}
